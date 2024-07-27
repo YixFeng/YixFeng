@@ -13,7 +13,7 @@
 - **SLAM:** LiDAR-inertial odometry, LiDAR SLAM, Visual-inertial odometry (Especially in large-scale scenarios)
 
 #### 🚀 Experience
-- **Masters Thesis Student** at the School of Mechanical and Manufacturing Engineering, UNSW. Supervised by [Dr. Jose Guivant](https://scholar.google.com.au/citations?user=_4IB14IAAAAJ&hl=en) (2024.01 ~ present)
+- **Masters Thesis Student** at the School of Mechanical and Manufacturing Engineering, UNSW. Supervised by [Dr. Jose Guivant](https://scholar.google.com.au/citations?user=_4IB14IAAAAJ&hl=en) (2024.05 ~ present)
 - **Research Intern** at DISCOVER Lab, Institute for AI Industry Research, Tsinghua University. Supervised by [PostDoc. Yongliang Shi](https://scholar.google.com.au/citations?user=alz2MpAAAAAJ&hl=en) and [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/info/1046/1199.htm) (2021.10 ~ 2022.12)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
