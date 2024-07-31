@@ -3,6 +3,7 @@
 #### Hi there 👋 This is Yixiao Feng (冯逸潇)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xffer.robotics@gmail.com)](mailto:xffer.robotics@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yixiao-feng043/)](https://www.linkedin.com/in/yixiao-feng043/)
+![GitHub User's stars](https://img.shields.io/github/stars/YixFeng?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
 #### 🎓 Education
 - **M.EngSc in Robotics** from University of New South Wales, Sydney, Australia (2023.02 ~ present)
