@@ -6,11 +6,11 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/YixFeng?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
 #### 🎓 Education
-- **M.EngSc in Robotics** from University of New South Wales, Sydney, Australia (2023.02 ~ 2024.12)
+- **M.EngSc in Robotics** from University of New South Wales, Sydney, Australia (2023.02 ~ Present)
 - **BE in Mechanical Design, Manufacturing and Its Automation** from Beijing University of Chemical Technology, Beijing, China (2018.09 ~ 2022.06)
 
 #### 🎯 Research Interest
-- **SLAM:** LiDAR-inertial, LiDAR, Visual-inertial SLAM (Especially in large-scale scenarios)
+- **SLAM:** LiDAR-inertial, LiDAR, Visual-inertial SLAM, especially in large-scale scenarios
 
 #### 🚀 Experience
 - **Masters Thesis Student** at the School of Mechanical and Manufacturing Engineering, UNSW. Supervised by [Dr. Jose Guivant](https://scholar.google.com.au/citations?user=_4IB14IAAAAJ&hl=en) (2024.05 ~ present)
