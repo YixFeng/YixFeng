@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
-
 #### Hi there 👋 This is Yixiao Feng (冯逸潇)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xffer.robotics@gmail.com)](mailto:xffer.robotics@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yixiao-feng043/)](https://www.linkedin.com/in/yixiao-feng043/)
@@ -14,5 +12,3 @@
 
 #### 🚀 Experience
 - **Research Intern** at DISCOVER Lab, Institute for AI Industry Research, Tsinghua University. Supervised by [PostDoc. Yongliang Shi](https://scholar.google.com.au/citations?user=alz2MpAAAAAJ&hl=en) and [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm) (2021.10 ~ 2022.12)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
