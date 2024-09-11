@@ -10,7 +10,7 @@
 - **BE in Mechanical Design, Manufacturing and Its Automation** from Beijing University of Chemical Technology, Beijing, China (2018.09 ~ 2022.06)
 
 #### 🎯 Research Interest
-- **SLAM:** LiDAR-inertial, LiDAR, Visual-inertial SLAM, especially in large-scale scenarios
+- **SLAM:** LiDAR-inertial/LiDAR/Visual-inertial SLAM, Large-scale Localization
 
 #### 🚀 Experience
 - **Research Intern** at DISCOVER Lab, Institute for AI Industry Research, Tsinghua University. Supervised by [PostDoc. Yongliang Shi](https://scholar.google.com.au/citations?user=alz2MpAAAAAJ&hl=en) and [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/info/1046/1199.htm) (2021.10 ~ 2022.12)
