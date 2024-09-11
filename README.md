@@ -13,6 +13,6 @@
 - **SLAM:** LiDAR-inertial/LiDAR/Visual-inertial SLAM, Large-scale Localization
 
 #### 🚀 Experience
-- **Research Intern** at DISCOVER Lab, Institute for AI Industry Research, Tsinghua University. Supervised by [PostDoc. Yongliang Shi](https://scholar.google.com.au/citations?user=alz2MpAAAAAJ&hl=en) and [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/info/1046/1199.htm) (2021.10 ~ 2022.12)
+- **Research Intern** at DISCOVER Lab, Institute for AI Industry Research, Tsinghua University. Supervised by [PostDoc. Yongliang Shi](https://scholar.google.com.au/citations?user=alz2MpAAAAAJ&hl=en) and [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm) (2021.10 ~ 2022.12)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
