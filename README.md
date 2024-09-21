@@ -5,7 +5,7 @@
 
 #### 🎓 Education
 - **[2023.02 ~ Present]** **M.EngSc in Robotics** at University of New South Wales, Sydney, Australia 
-- **[2018.09 ~ 2022.06]** **BE in Mechanical Design, Manufacturing and Its Automation** at Beijing University of Chemical Technology, Beijing, China 
+- **[2018.09 ~ 2022.06]** **B.E. in Mechanical Design, Manufacturing and Its Automation** at Beijing University of Chemical Technology, Beijing, China 
 
 #### 🚀 Experience
 - **[2021.10 ~ 2022.12]** **Research Intern** at DISCOVER Lab, Institute for AI Industry Research, Tsinghua University. Supervised by Dr. Yongliang Shi and [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm) 
