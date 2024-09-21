@@ -4,11 +4,11 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/YixFeng?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
 #### 🎓 Education
-- **M.EngSc in Robotics** from University of New South Wales, Sydney, Australia (2023.02 ~ Present)
-- **BE in Mechanical Design, Manufacturing and Its Automation** from Beijing University of Chemical Technology, Beijing, China (2018.09 ~ 2022.06)
-
-#### 🎯 Research Interest
-- **SLAM:** LiDAR-inertial/LiDAR/Visual-inertial SLAM, Large-scale Localization
+- **[2023.02 ~ 2024.12]** **M.EngSc in Robotics** at University of New South Wales, Sydney, Australia 
+- **[2018.09 ~ 2022.06]** **BE in Mechanical Design, Manufacturing and Its Automation** at Beijing University of Chemical Technology, Beijing, China 
 
 #### 🚀 Experience
-- **Research Intern** at DISCOVER Lab, Institute for AI Industry Research, Tsinghua University. Supervised by [PostDoc. Yongliang Shi](https://scholar.google.com.au/citations?user=alz2MpAAAAAJ&hl=en) and [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm) (2021.10 ~ 2022.12)
+- **[2021.10 ~ 2022.12]** **Research Intern** at DISCOVER Lab, Institute for AI Industry Research, Tsinghua University. Supervised by [PostDoc. Yongliang Shi](https://scholar.google.com.au/citations?user=alz2MpAAAAAJ&hl=en) and [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm) 
+
+#### 🎯 Research Interest
+- **SLAM:** LiDAR-inertial SLAM, Large-scale localization
