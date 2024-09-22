@@ -11,4 +11,5 @@
 - **[2021.10 ~ 2022.12]** **Research Intern** at [DISCOVER Lab](https://www.discover-lab.com/), [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/), supervised by Dr. Yongliang Shi and [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm) 
 
 #### 🎯 Research Interest
-- **SLAM:** LiDAR-inertial SLAM, large-scale localization
+- LiDAR-inertial SLAM, Large-scale Localization
+- Large Vision and Language Models (LVLMs), Large Multi-modal Models (LMMs)
