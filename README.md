@@ -4,7 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/YixFeng?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
 #### 🎓 Education
-- **[2023.02 ~ Present]** **M.EngSc in Robotics** at University of New South Wales, Sydney, Australia 
+- **[2023.02 ~ 2024.12]** **M.EngSc in Robotics** at University of New South Wales, Sydney, Australia 
 - **[2018.09 ~ 2022.06]** **B.E. in Mechanical Design, Manufacturing and Its Automation** at Beijing University of Chemical Technology, Beijing, China 
 
 #### 🚀 Experience
